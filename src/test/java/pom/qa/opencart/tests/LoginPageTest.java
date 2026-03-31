@@ -27,7 +27,7 @@ import pom.qa.opencart.base.BaseTest;
 @Story("US 101: implement login page for open cart application")
 public class LoginPageTest extends BaseTest{
 
-	@Description("checking open cart login page title...")
+	@Description("checking open cart login page title..")
 	@Severity(SeverityLevel.MINOR)
 	@Owner("Swathi")
 	@Link(name="Website")//link with your bug id
